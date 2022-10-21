@@ -1,7 +1,7 @@
 # Workshop Spring Boot JPA
 
 ## Sobre
-Projeto workshop spring boot jpa consiste na aplicação de uma Loja que insere e manipula os dados. Este projeto foi realizado durante o curso 'Java COMPLETO Programação Orientada a Objetos +Projetos' tendo como orientador o Professor Nélio Alves.
+Projeto workshop spring boot jpa consiste em uma API REST de uma Loja que insere e manipula os dados. Este projeto foi realizado durante o curso 'Java COMPLETO Programação Orientada a Objetos +Projetos' tendo como orientador o Professor Nélio Alves.
 
 &nbsp;
 ## Objetivos
