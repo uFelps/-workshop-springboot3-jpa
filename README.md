@@ -15,7 +15,7 @@ Projeto workshop spring boot jpa consiste na aplicação de uma Loja que insere 
 
 * Povoar o banco de dados
 
-* CRUD - Create, Retrieve, Update, Delete
+* CRUD - Create, Read, Update, Delete
 
 * Tratamento de exceções
 
