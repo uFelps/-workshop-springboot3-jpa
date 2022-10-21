@@ -47,3 +47,9 @@ cd workshop-springboot3-jpa-main
 # Executar o projeto
 ./mvnw spring-boot:run
 ```
+
+&nbsp;
+## Exemplos
+![](https://github.com/uFelps/assets/blob/main/workshop-springboot3-jpa/Exemplo1.png?raw=true)
+![](https://github.com/uFelps/assets/blob/main/workshop-springboot3-jpa/Exemplo2.png?raw=true)
+
