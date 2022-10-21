@@ -34,7 +34,7 @@ Projeto workshop spring boot jpa consiste na aplicação de uma Loja que insere 
 &nbsp;
 ## Como executar o Projeto
 ### Back End
-Pré-requisitos: Java 11
+Pré-requisitos: Java 17
 &nbsp;
 
 ```
